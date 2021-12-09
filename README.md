@@ -22,7 +22,7 @@ The computer tells you if it's guess it higher or lower
 You get 10 tries
 
 <!-- Features -->
-## Features 🛠 ##
+## Tools  🛠 ##
 
 Made in JavaScript, HTML, and CSS using Visual Studio
 
